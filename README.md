@@ -21,7 +21,7 @@ WSJT-X and JS8Call should be configured as follows :
 - Baud rate : 115200
 - Data bits : Defaults
 - Stop bite : Default
-- Handshake : *None* /!\ 
+- **Handshake : None** /!\ 
 
 Configuration screen for WSJT-X :
 ![WSJT-X Configuration](./WSJT-X-config.png)
