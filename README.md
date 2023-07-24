@@ -20,7 +20,7 @@ WSJT-X and JS8Call should be configured as follows :
 - Radio : Yaesu FT-991
 - Baud rate : 115200
 - Data bits : Default
-- Stop bite : Default
+- Stop bits : Default
 - **Handshake : None** /!\ 
 
 Configuration screen for WSJT-X :
