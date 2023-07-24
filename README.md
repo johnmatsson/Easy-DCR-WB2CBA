@@ -19,7 +19,7 @@ CAT Control is emulating a Yaesu FT-991.
 WSJT-X and JS8Call should be configured as follows :
 - Radio : Yaesu FT-991
 - Baud rate : 115200
-- Data bits : Defaults
+- Data bits : Default
 - Stop bite : Default
 - **Handshake : None** /!\ 
 
