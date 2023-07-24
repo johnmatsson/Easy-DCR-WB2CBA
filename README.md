@@ -55,6 +55,15 @@ Switch 2-3 = Mode :
     |   WSPR   |  1   |   0   |
     |   JS8    |  1   |   1   |
 
+
+Demonsration
+============
+The board assembled and connected to the PC (USB Serial for CAT control and mic input jack for audio) and to my HWEF antenna :	
+![Demo board](./board.jpg)
+
+In action with WSJT-X in FT8 mode on 40m :
+![Demo screenshot](./WSJT-X-demo.png)
+
 Assembly and build instructions
 ===============================
 https://antrak.org.tr/projeler/poor-mans-hf-ssb-receiver-lets-build-it/
