@@ -7,7 +7,7 @@ This is a fork of WB2CBA's work from February 2020 : WB2CBA Barbaros Asuroglu.
 
 The kit used for my developments was provided by F5KSE radio-club (http://ref31.r-e-f.org/) with the help of F4JQT (does not include the low-band filter).
 
-The software from WB2CBA has been changes to :
+The software from WB2CBA has been changed to :
 1. Add support for CAT control over USB serial from WSJT-X and JS8Call
 2. Rearrange DIP switch configuration to support multi-band operation
 
