@@ -56,8 +56,8 @@ Switch 2-3 = Mode :
     |   JS8    |  1   |   1   |
 
 
-Demonsration
-============
+Demonstration
+=============
 The board assembled and connected to the PC (USB Serial for CAT control and mic input jack for audio) and to my HWEF antenna :	
 ![Demo board](./board.jpg)
 
